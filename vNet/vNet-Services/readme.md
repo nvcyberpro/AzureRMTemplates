@@ -7,7 +7,7 @@
 </a>
 
 
-<a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/jellis-ndot/vm-as-dd-diag-shutdwn/master/azuredeploy.json" target="_blank">
+<a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/nvcyberpro/AzureRMTemplates/master/vNet/vNet-Services/azuredeploy.json" target="_blank">
   <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
