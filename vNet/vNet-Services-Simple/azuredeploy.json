@@ -1,6 +1,10 @@
 {
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
     "contentVersion": "1.0.0.0",
+    "metadata":{
+        "comments": "This template was developed for demonstation purposes",
+        "author": "James Ellis"
+    },
     "parameters": {
         "virtualNetworkName": {
             "defaultValue": "Core-vNet1-WestUS",
