@@ -1,2 +1,2 @@
 # AzureRMTemplates
-My Azure Resource Manager Templates
+My Azure Resource Manager Templates Repository
