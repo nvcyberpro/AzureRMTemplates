@@ -1,2 +1,2 @@
-# AzureRMTemplates vNets
-My Azure Resource Manager Templates Repository for vNets
+# AzureRMTemplates Network Templates
+
